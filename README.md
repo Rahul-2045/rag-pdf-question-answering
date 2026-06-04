@@ -1,6 +1,6 @@
 # RAG PDF Question Answering System
 
-![RAG Architecture]([images/rag_architecture.svg](https://chatgpt.com/backend-api/estuary/content?id=file_00000000ff98724698a540fe7371de30&ts=494602&p=fs&cid=1&sig=38d5060841ec527d6c8ca31fb7d670d223ab9cbadf01f8563b6d362c26d11607&v=0))
+![RAG Architecture](RAG Architecture PNG)
 
 ## 1. Project Introduction
 
