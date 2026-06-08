@@ -1,4 +1,4 @@
-# RAG PDF Question Answering System with Ollama
+# RAG PDF System with Ollama
 
 ![RAG PDF Question Answering Architecture](images/rag_pdf_architecture.png)
 
